@@ -1,0 +1,6 @@
+#synchronous output
+Mon, 03 Sep 2018 04:17:57 GMT
+Mon, 03 Sep 2018 04:17:58 GMT
+Mon, 03 Sep 2018 04:17:58 GMT
+
+#asynchronous output
